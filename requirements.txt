@@ -1,0 +1,8 @@
+# Core PyTorch library for deep learning and tensor operations
+torch>=2.0.0
+
+# Hugging Face Transformers for DistilGPT-2 model architecture and tokenizer
+transformers>=4.35.0
+
+# Gradio for web user interface
+gradio>=4.0.0
